@@ -3,19 +3,17 @@
 <h2 align="center">Web Developer</h2>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"
 
-<p align="left"> <a href="https://twitter.com/tharwanihanish" target="blank"><img src="https://img.shields.io/twitter/follow/tharwanihanish?logo=twitter&style=for-the-badge" alt="tharwanihanish" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tharwanihanish" target="blank"><img src="https://img.shields.io/twitter/follow/tharwanihanish?logo=twitter&style=for-the-badge" alt="tharwanihanish" /></a> 
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-website-three-delta.vercel.app/](https://my-portfolio-website-three-delta.vercel.app/)
+- 👨‍💻 My Portfolio Website https://my-portfolio-website-three-delta.vercel.app/
 
 - 💬 Ask me about **Front End, Machine Learning, Data structure and algorithm**
 
 - 📫 How to reach me **hanishtharwani283@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1I0UjXGCLaBrIIN9X29gVWlzlaKgwX1qx/view?usp=share_link](https://drive.google.com/file/d/1I0UjXGCLaBrIIN9X29gVWlzlaKgwX1qx/view?usp=share_link)
-
-- ⚡ Fun fact **I am funny**
+- 📄 Resume [https://drive.google.com/file/d/1I0UjXGCLaBrIIN9X29gVWlzlaKgwX1qx/view?usp=share_link](https://drive.google.com/file/d/1I0UjXGCLaBrIIN9X29gVWlzlaKgwX1qx/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
