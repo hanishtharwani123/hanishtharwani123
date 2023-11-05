@@ -1,7 +1,9 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 <h1 align="center">Hi 👋, I'm Hanish Tharwani</h1>
 <h2 align="center">Web Developer</h2>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"
+
+<img align="right" alt="Coding" width="400" src="https://github.com/hanishtharwani123/hanishtharwani123/assets/104623869/7460595f-a41c-4cad-968d-e1be4308ad4d">
+
 
 <p align="left"> <a href="https://twitter.com/tharwanihanish" target="blank"><img src="https://img.shields.io/twitter/follow/tharwanihanish?logo=twitter&style=for-the-badge" alt="tharwanihanish" /></a> 
 
