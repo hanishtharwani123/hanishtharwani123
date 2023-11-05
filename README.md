@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hanish Tharwani</h1>
 <h2 align="center">Web Developer</h2>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/hanishtharwani123/hanishtharwani123/assets/104623869/7460595f-a41c-4cad-968d-e1be4308ad4d">
+<img align="right" alt="Coding" width="380" src="https://github.com/hanishtharwani123/hanishtharwani123/assets/104623869/7460595f-a41c-4cad-968d-e1be4308ad4d">
 
 
 <p align="left"> <a href="https://twitter.com/tharwanihanish" target="blank"><img src="https://img.shields.io/twitter/follow/tharwanihanish?logo=twitter&style=for-the-badge" alt="tharwanihanish" /></a> 
