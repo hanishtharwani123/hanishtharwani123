@@ -7,13 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/tharwanihanish" target="blank"><img src="https://img.shields.io/twitter/follow/tharwanihanish?logo=twitter&style=for-the-badge" alt="tharwanihanish" /></a> 
 
-- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 My Portfolio Website https://my-portfolio-website-three-delta.vercel.app/
-
-- 💬 Ask me about **Front End, Machine Learning, Data structure and algorithm**
-
-- 📫 How to reach me **hanishtharwani283@gmail.com**
 
 - 📄 Resume [https://drive.google.com/file/d/1I0UjXGCLaBrIIN9X29gVWlzlaKgwX1qx/view?usp=share_link](https://drive.google.com/file/d/1I0UjXGCLaBrIIN9X29gVWlzlaKgwX1qx/view?usp=share_link)
 
