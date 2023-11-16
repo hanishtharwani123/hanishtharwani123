@@ -13,10 +13,7 @@
   <samp>👨‍💻 &nbsp;Read more about my projects at <a href="https://my-portfolio-website-three-delta.vercel.app/" target="_blank">MyPortfolio.com</a></samp><br>
   <samp>⚡ &nbsp;Fun fact: I :heart: Reading about Current and World affairs</samp>
 </p>
-
 <br/>
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/tharwanihanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharwanihanish" height="30" width="40" /></a>
