@@ -27,3 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanishtharwani123&theme=radical" alt="hanishtharwani123" /></p>
 
+### My Top Repositories 🚀
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanishtharwani123&theme=radical&repo=MY-PORTFOLIO-WEBSITE" width="330">](https://github.com/hanishtharwani123/MY-PORTFOLIO-WEBSITE) [<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanishtharwani123&theme=radical&repo=MELOCAST-music-website" width="330">](https://github.com/hanishtharwani123/MELOCAST-music-website) [<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanishtharwani123&theme=radical&repo=Snaply" width="330">](https://github.com/hanishtharwani123/Snaply)
