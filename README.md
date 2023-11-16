@@ -1,16 +1,17 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 <h1 align="center">Hi 👋, I'm Hanish Tharwani</h1>
 <h2 align="center">Web Developer</h2>
 
-<img align="right" alt="Coding" width="380" src="https://github.com/hanishtharwani123/hanishtharwani123/assets/104623869/7460595f-a41c-4cad-968d-e1be4308ad4d">
+<img align="right" alt="Coding" width="310" src="https://github.com/hanishtharwani123/hanishtharwani123/assets/104623869/7460595f-a41c-4cad-968d-e1be4308ad4d">
 
 
-<p align="left"> <a href="https://twitter.com/tharwanihanish" target="blank"><img src="https://img.shields.io/twitter/follow/tharwanihanish?logo=twitter&style=for-the-badge" alt="tharwanihanish" /></a> 
+This is the place where I opensource stuff and Uploads cool projects :rofl:
 
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning Blockchain
+- 💬 &nbsp;Ask me about anything related to MERN stack
+- 👨‍💻 &nbsp;Read more about my projects at [MyPortfolio.com](https://my-portfolio-website-three-delta.vercel.app/)
+- ⚡ &nbsp;Fun fact: I :heart: Reading about Current and World affairs
 
-- 👨‍💻 My Portfolio Website https://my-portfolio-website-three-delta.vercel.app/
-
-- 📄 Resume [https://drive.google.com/file/d/1I0UjXGCLaBrIIN9X29gVWlzlaKgwX1qx/view?usp=share_link](https://drive.google.com/file/d/1I0UjXGCLaBrIIN9X29gVWlzlaKgwX1qx/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,3 +38,4 @@
 
 ### My Top Repositories 🚀
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanishtharwani123&theme=radical&repo=MY-PORTFOLIO-WEBSITE" width="260">](https://github.com/hanishtharwani123/MY-PORTFOLIO-WEBSITE) [<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanishtharwani123&theme=radical&repo=MELOCAST-music-website" width="260">](https://github.com/hanishtharwani123/MELOCAST-music-website) [<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanishtharwani123&theme=radical&repo=Snaply" width="260">](https://github.com/hanishtharwani123/Snaply)
+
