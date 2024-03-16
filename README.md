@@ -1,4 +1,4 @@
-<img align="right" alt="Codng" src="https://github.com/hanishtharwani123/hanishtharwani123/assets/104623869/d133d592-b25f-4dac-8d2e-165b591aba4e">
+<img align="right" alt="Coding" src="https://github.com/hanishtharwani123/hanishtharwani123/assets/104623869/d133d592-b25f-4dac-8d2e-165b591aba4e">
 
 
 <h1 align="center">Hi 👋, I'm Hanish Tharwani</h1>
